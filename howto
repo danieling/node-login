@@ -7,3 +7,8 @@ npm i nodemon -D
 
 # Run the Project
 npm run dev
+
+# DB Settings user: root pass: BLANK first time just hit enter
+install xampp
+add xampp/mysql/bin to system path
+mysql -u root -p
